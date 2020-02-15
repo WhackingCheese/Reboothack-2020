@@ -25,8 +25,6 @@ p = {
     "session_id": None,
 }
 
-
-
 db = json.loads("[]")
 
 for i in range(COMP_NUMB):
