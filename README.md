@@ -1,17 +1,15 @@
 # Reboothack-2020
 
-# Vörður
-## Hvernig verður tryggingarþjónusta í framtíðinni?
-Tryggingar snúast um að veita fólki þá hugarró sem felst í að vita að ef eitthvað kemur upp á þá ertu tryggður. Stafræn þróun er hröð og áhrifa er þegar farið að gæta hjá fjármálafyrirtækjum sem eru í auknum mæli farin að sjálfvirknivæða þjónustu. Það sér ekki fyrir endann á þeirri þróun en hvað sjáið þið?
+# AwareGo
+## Skipulagðir netglæpahópar sækja á fyrirtæki. Hvernig gerum við starfsfólk meðvitað um hætturnar?
+Fyrirtæki og einstaklingar töpuðu á milljörðum króna á síðasta ári vegna netsvika, þá aðallega vegna tölvupóstsvika. Öryggisvitundar-þjálfun fyrir starfsfólks fyrirtækja getur reynst flókin því almennt hefur fólk ekki áhuga á netöryggismálum, telur þau einungis vandamál tölvudeildarinnar eða treystir um of á vírusvarnir og eldveggi.
 
-Hvernig mætum við þörfum viðskiptavina á þeirra forsendum og í gegnum þá miðla sem þeir kjósa þegar kemur að tjóni eða kaupum á tryggingum?
-
-Hvernig tryggjum við að viðskiptavinir okkar séu rétt tryggðir og rétt verðlagðir?
+Skipulagðir glæpahópar sækjast í auknum mæli eftir því að “hakka” fólk í stað þess að hakka eldveggi og þegar þeim tekst það er lítið sem hefðbundnar vírusvarnir geta gert. Við leitum að aðferðum til að gera öryggisvitund áhugaverða og minnisstæða. Hvernig getum við kennt fólki að þekkja svikapósta, varast vírus og gæta sín á viðhengjum? Hvernig getum við gætt þess að slík þjálfun sé efst í huga fólks þegar mest á reynir? Hvernig gerum við starfsfólk að virkum hluta eldveggjarins?
 
 ### Matsatriði:
-1. Frumleiki hugmyndar
-2. Gæði útfærslu
-3. Líkur á að hugmyndin yrði að veruleika
+*Líklegt til árangurs
+*Hugsað út fyrir kassann
+*Nýtir tækni sem er í almennri notkun eða líkleg til almennra vinsælda
 
 ### Verðlaun:
-30.000 kr. gjafabréf frá Arion Banka á mann.
+100.000 kr peningaverðlaun handa vinningsliðinu.
