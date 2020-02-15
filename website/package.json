@@ -10,6 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.7",
+    "connect": "^3.7.0",
     "sass": "^1.25.0"
+  },
+  "devDependencies": {
+    "grunt-php": "^3.0.0",
+    "gulp-connect-php": "^1.0.3"
   }
 }
