@@ -12,7 +12,7 @@ user_entry = {
     "session_id": None
 }
 
-db = json.load(open("database.json", "r"))
+db = json.load(open("website/demo_db.json", "r"))
 
 db["company_id"] = 1
 db["clicks"] = len(users)
@@ -27,4 +27,4 @@ for i in range(len(users)):
     item["session_id"] = random.randint(0, 999999999)
     db["phished"].append(item)
 
-json.dump(db, open("database.json", "w"))
+json.dump(db, open("website/demo_db.json", "w"))
