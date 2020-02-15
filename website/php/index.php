@@ -21,16 +21,18 @@
                 //print_r($json_a);
                 foreach ($json_a as $company) {
                     echo "<div class='company'>";
-                        echo "<h1>".$company['company_id']."</h1>";
-                        foreach ($company['phished'] as $phishedMan) {
-                            echo "<p>".$phishedMan['username']."<br>";
-                            echo $phishedMan['time']."</p>";
+                        if ($company['company_id'] == 'company_0') {
+                            echo "<h1>".$company['company_id']."</h1>";
+                            foreach ($company['phished'] as $phishedMan) {
+                                echo "<p>".$phishedMan['username']."<br>";
+                                echo $phishedMan['time']."</p>";
+                            }
+                            echo "<div class='company__anal'>";
+                                echo "<p>Mails sent:".$company['sent']."</p>";
+                                echo "<p>Mails Clicked:".$company['clicks']."</p>";
+                                echo "<p>Phished numbers:".$company['number_phished']."</p>";
+                            echo "</div>";
                         }
-                        echo "<div class='company__anal'>";
-                            echo "<p>Mails sent:".$company['sent']."</p>";
-                            echo "<p>Mails Clicked:".$company['clicks']."</p>";
-                            echo "<p>Phished numbers:".$company['number_phished']."</p>";
-                        echo "</div>";
                     echo "</div>";
                 }
             }
