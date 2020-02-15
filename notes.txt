@@ -1,0 +1,43 @@
+Phishing
+- Fooling a user to give up login or personal information for an account or accounts
+
+Spear Phishing
+- Personalised phishing. Phishing tailored to a specific persion
+
+Social Engineering
+- *tailgating
+- 
+
+Ransomware
+- 
+
+
+
+
+
+
+Soft 
+
+
+
+
+
+
+
+awarego
+- Securite awareness training
+- Video training
+- funded by Ragnar Sigurðsson, pen tester and ethical hacker
+
+Authentication
+- MFA, password security, password uniqueness, password handling
+Network Security
+- unsecured network, https connections, unsecure wifi, home network security
+Physical Security
+- valueables in car, printers, printing documents, removable media encryption, tailgating, desk security, confidential material handling, discarding documents and computers
+
+
+- Updates, , bogus invoices, , auto-fill, eavesdropping on mobile calls, collection of unncecessary personal data, sharing of confidential information, 
+email listeners, link checking, privacy screens, reputation damaging posts, unattended computers and phones, vishing - phone equivilent phishing, data leaks, ransomware, key loggers, boss impersonators,
+, chain mails, social engineerin, unsecure software, , usb drives, shoulder watching, , spyware, malicious attachments,
+ , , pop ups, , email etiquette, phishing and spear phishing, 
