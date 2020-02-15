@@ -1,14 +1,42 @@
 {
-    "company_id": null,
-    "clicks": null,
-    "number_phished": null,
+    "company_id": 1,
+    "clicks": 5,
+    "number_phished": 5,
     "phished": [
         {
-            "username": null,
-            "password": null,
-            "time": null,
-            "cookie_id": null,
-            "session_id": null
+            "username": "audurmargret",
+            "password": "secret",
+            "time": "15/02/2020 16:33:17",
+            "cookie_id": 318183601,
+            "session_id": 916422067
+        },
+        {
+            "username": "booninja",
+            "password": "secret",
+            "time": "15/02/2020 16:33:17",
+            "cookie_id": 79754573,
+            "session_id": 154820567
+        },
+        {
+            "username": "Stimmikex",
+            "password": "secret",
+            "time": "15/02/2020 16:33:17",
+            "cookie_id": 928942961,
+            "session_id": 522552502
+        },
+        {
+            "username": "thth16",
+            "password": "secret",
+            "time": "15/02/2020 16:33:17",
+            "cookie_id": 209016737,
+            "session_id": 434034045
+        },
+        {
+            "username": "whackingcheese",
+            "password": "secret",
+            "time": "15/02/2020 16:33:17",
+            "cookie_id": 279411776,
+            "session_id": 994050170
         }
     ]
 }
