@@ -18,22 +18,23 @@
                 echo "DataBase not connected";
             } else {
                 $json_a = json_decode($string, true);
-                //print_r($json_a);
                 foreach ($json_a as $company) {
-                    echo "<div class='company'>";
-                        if ($company['company_id'] == 'company_0') {
-                            echo "<h1>".$company['company_id']."</h1>";
-                            foreach ($company['phished'] as $phishedMan) {
-                                echo "<p>".$phishedMan['username']."<br>";
-                                echo $phishedMan['time']."</p>";
-                            }
-                            echo "<div class='company__anal'>";
-                                echo "<p>Mails sent:".$company['sent']."</p>";
-                                echo "<p>Mails Clicked:".$company['clicks']."</p>";
-                                echo "<p>Phished numbers:".$company['number_phished']."</p>";
-                            echo "</div>";
+                    if ($company['company_id'] == 'company_0') {
+                        echo "<div class='company'>";
+                        echo "<h1>".$company['company_id']."</h1>";
+                        foreach ($company['phished'] as $phishedMan) {
+                            echo "<p>".$phishedMan['username']."<br>";
+                            echo $phishedMan['time']."</p>";
                         }
-                    echo "</div>";
+                        echo "<div class='company__anal'>";
+                        echo "<h2>Mails Sent: ".$company['sent']."</h2>";
+                        echo "<h2>Mails Clicked: ".$company['clicks']."</h2>";
+                        echo "<h2>Phished Employees: ".$company['number_phished']."</h2><br>";
+                        echo "<h2>Click Rate: ".number_format(($company['clicks']/$company['sent'])*100, 2, '.', '')."%</h2>";
+                        echo "<h2>Phish Rate: ".number_format(($company['number_phished']/$company['sent'])*100, 2, '.', '')."%</h2>";
+                        echo "</div>";
+                        echo "</div>";
+                    }
                 }
             }
             echo "</div>";

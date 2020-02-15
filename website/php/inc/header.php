@@ -11,6 +11,8 @@
         </ul>
     </div>
     <div class="header__third">
-        <h1 class="header__third__temp">PenTest Demo</h1>
+        <h1 class="header__third__temp">
+            PenTest Results (demo)
+        </h1>
     </div>
 </div>
