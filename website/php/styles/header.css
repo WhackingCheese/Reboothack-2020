@@ -20,3 +20,7 @@ html, body {
     display: flex;
     list-style: none;
 }
+
+.bodymain {
+    margin: 1em;
+}

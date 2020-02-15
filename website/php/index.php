@@ -10,16 +10,20 @@
     <?php
         include "inc/header.php";
     ?>
-    <?php
-        $string = file_get_contents("demo_db.json");
-        if ($string === false) {
-            echo "DataBase not connected";
-        } else {
-            $json_a = json_decode($string, true);
-            foreach ($json_a->phished as $phishedMan) {
-              echo "<p>".$phishedMan['username']."</p><br>";
+    <div class="bodymain">
+        <?php
+            $string = file_get_contents("demo_db.json");
+            if ($string === false) {
+                echo "DataBase not connected";
+            } else {
+                $json_a = json_decode($string, true);
+                echo "<h1>".$json_a["company_id"]."</h1>";
+                foreach ($json_a['phished'] as $phishedMan) {
+                echo "<p>".$phishedMan['username']."<br>";
+                echo $phishedMan['time']."</p>";
+                }
             }
-        }
-    ?>
+        ?>
+    </div>
 </body>
 </html>
