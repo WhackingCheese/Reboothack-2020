@@ -12,6 +12,7 @@
     ?>
     <div class="bodymain">
         <?php
+            echo "<div>";
             $string = file_get_contents("demo_db.json");
             if ($string === false) {
                 echo "DataBase not connected";
@@ -23,6 +24,7 @@
                 echo $phishedMan['time']."</p>";
                 }
             }
+            echo "</div>";
         ?>
     </div>
 </body>
