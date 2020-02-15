@@ -1,5 +1,4 @@
 # Reboothack-2020
-Reboot Hack 2020 Repo
 
 # Vörður
 ## Hvernig verður tryggingarþjónusta í framtíðinni?
