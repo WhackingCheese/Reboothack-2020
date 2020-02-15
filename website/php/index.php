@@ -11,7 +11,7 @@
         include "inc/header.php";
     ?>
     <?php
-        $string = file_get_contents("database.json");
+        $string = file_get_contents("demo_db.json");
         if ($string === false) {
             echo "DataBase not connected";
         } else {
