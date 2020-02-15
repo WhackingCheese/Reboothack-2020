@@ -1,0 +1,14 @@
+{
+    "company_id": null,
+    "clicks": null,
+    "number_phished": null,
+    "phished": [
+        {
+            "username": null,
+            "password": null,
+            "time": null,
+            "cookie_id": null,
+            "session_id": null
+        }
+    ]
+}
