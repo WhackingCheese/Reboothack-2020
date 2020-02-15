@@ -9,6 +9,7 @@ html, body {
     height: 10em;
     background: aliceblue;
     border-bottom: solid;
+    /* position: fixed; */
 }
 .header > div {
     width: 33.3%;
@@ -23,13 +24,15 @@ html, body {
 }
 
 .bodymain {
-    margin: 1em;
+    width: 80%;
+    margin: 1em auto;
 }
 .company {
     display: flex;
     flex-wrap: wrap;
     border: solid black 2px;
     margin-bottom: 1em;
+
 }
 .company > h1 {
     width: 100%;
