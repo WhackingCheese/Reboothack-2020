@@ -1,0 +1,15 @@
+{
+  "name": "reboothack-2020",
+  "version": "1.0.0",
+  "description": "awarego challange",
+  "main": "index.js",
+  "scripts": {
+    "script": "browser-sync start --server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "sass": "^1.25.0"
+  }
+}
