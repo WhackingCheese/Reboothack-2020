@@ -8,6 +8,7 @@ html, body {
     display: flex;
     height: 10em;
     background: aliceblue;
+    border-bottom: solid;
 }
 .header > div {
     width: 33.3%;
@@ -23,4 +24,25 @@ html, body {
 
 .bodymain {
     margin: 1em;
+}
+.company {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid black 2px;
+    margin-bottom: 1em;
+}
+.company > h1 {
+    width: 100%;
+    margin: 0 auto;
+    background: aqua;
+    border-bottom: solid black 2px; 
+}
+.company > p {
+    border: solid;
+    margin: 2px;
+    padding: 1em;
+}
+.company__anal {
+    width: 100%;
+    padding: 2em;
 }

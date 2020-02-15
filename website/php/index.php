@@ -13,15 +13,25 @@
     <div class="bodymain">
         <?php
             echo "<div>";
-            $string = file_get_contents("demo_db.json");
+            $string = file_get_contents("database.json");
             if ($string === false) {
                 echo "DataBase not connected";
             } else {
                 $json_a = json_decode($string, true);
-                echo "<h1>".$json_a["company_id"]."</h1>";
-                foreach ($json_a['phished'] as $phishedMan) {
-                echo "<p>".$phishedMan['username']."<br>";
-                echo $phishedMan['time']."</p>";
+                //print_r($json_a);
+                foreach ($json_a as $company) {
+                    echo "<div class='company'>";
+                        echo "<h1>".$company['company_id']."</h1>";
+                        foreach ($company['phished'] as $phishedMan) {
+                            echo "<p>".$phishedMan['username']."<br>";
+                            echo $phishedMan['time']."</p>";
+                        }
+                        echo "<div class='company__anal'>";
+                            echo "<p>Mails sent:".$company['sent']."</p>";
+                            echo "<p>Mails Clicked:".$company['clicks']."</p>";
+                            echo "<p>Phished numbers:".$company['number_phished']."</p>";
+                        echo "</div>";
+                    echo "</div>";
                 }
             }
             echo "</div>";
