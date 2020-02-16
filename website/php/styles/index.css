@@ -29,7 +29,7 @@ h1{
     font-size: 2em;
 }
 .bodymain {
-    width: 80%;
+    width: 25%;
     margin: 0em auto;
 }
 
@@ -94,11 +94,14 @@ h1{
     background: #AD2931;
     font-size: 1.3em;
 }
-}
+
 .cpInfoDisplay {
     display: flex;
     flex-wrap: wrap;
 }
 #info {
     height: 4em;
+}
+.data_info > img {
+    width: 100%;
 }
