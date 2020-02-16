@@ -25,7 +25,7 @@
                 } else {
                     $json_a = json_decode($string, true);
                     foreach ($json_a as $department) {
-                        if ($department['department_id'] != 'department_0') {
+                        if ($department['department_id'] == "Marketing" || $department['department_id'] == 'IT') {
                             echo "<div class='department'>";
                             echo "<div class='department__header'>";
                             echo "<button id='info'>".$department['department_id']."</button>";
@@ -52,17 +52,19 @@
         </div>
     </div>
     <script>
-        document.getElementById("info").addEventListener("click", myFunction);
-        var y = 0;
-        function myFunction() {
-            var x = document.getElementById("cpInfo");
-            if (y%2 == 1) {
-                x.style.display = "none";
-                y++;
-            } else {
-                x.style.display = "flex";
-                y++;
-            }
+        var buttons = document.querySelectorAll("#info");
+        for (var i = 0; i < buttons.length; i++) {
+            buttons[i].addEventListener(
+                "click",
+                function(e) {
+                    var x = e.target.parentNode.nextSibling;
+                    if(x.style.display == "" || x.style.display == "none") {
+                        x.style.display = "flex";
+                    } else {
+                        x.style.display = "none";
+                    }
+                }
+            );
         }
     </script>
     <div class="section">
