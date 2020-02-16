@@ -11,7 +11,7 @@
     <?php
         include "inc/header.php";
     ?>
-    <img src="img/values.png" alt="" class="presentation">
+    <img src="img/values.PNG" alt="" class="presentation">
     <div class="section">
         <div class="data_info">
             <h1>Tölfræði   úr   stýrðum   phishing   árásum</h1>
