@@ -1,5 +1,6 @@
 .presentation {
     width: 100%;
+    margin-top: 46px;
 }
 
 
@@ -43,6 +44,7 @@ html, body {
     border-bottom: solid black 2px; 
 }
 
+
 .data_info{
     width: 100%;
     margin: 4em 0 1em 0;
@@ -57,7 +59,12 @@ html, body {
     margin: 0 20px;
 }
 
-.company > p {
+#cpInfo {
+    display: none;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.company__player > p {
     background-color: #CB4950;
     color: white;
     margin: 1.2em;
@@ -66,4 +73,30 @@ html, body {
 .company__anal {
     width: 100%;
     padding: 2em;
+}
+.company__header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    background: #AD2931;
+    border-bottom: solid black 2px;
+}
+.company__header > button {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0em;
+    height: 4em;
+    border: none;
+    background: #AD2931;
+    font-size: 1.3em;
+}
+}
+.cpInfoDisplay {
+    display: flex;
+    flex-wrap: wrap;
+}
+#info {
+    height: 4em;
 }
