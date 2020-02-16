@@ -29,11 +29,12 @@ h1{
     font-size: 2em;
 }
 .bodymain {
-    width: 100%;
+    width: 60%;
     margin: 0em auto;
 }
 
 .department {
+
     flex-wrap: wrap;
     margin-bottom: 1em;
 }
@@ -61,11 +62,13 @@ h1{
 }
 
 #cpInfo {
+
     display: none;
     width: 100%;
     flex-wrap: wrap;
 }
 .department__player > p {
+    border-radius: 10px;
     background-color: #CB4950;
     color: white;
     margin: 1.2em;
@@ -76,6 +79,7 @@ h1{
     padding: 2em;
 }
 .department__header {
+    border-radius: 10px;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -83,6 +87,7 @@ h1{
     background: #AD2931;
 }
 .department__header > button {
+    border-color: transparent;
     width: 100%;
     margin: 0 auto;
     padding: 0em;
@@ -96,6 +101,7 @@ h1{
     flex-wrap: wrap;
 }
 #info {
+    border-radius: 10px;
     height: 4em;
 }
 .data_info > img {
@@ -106,4 +112,8 @@ h1{
 .movie {
     width: 80%;
     margin: 16px auto;
+}
+
+#video {
+    background-color: white;
 }

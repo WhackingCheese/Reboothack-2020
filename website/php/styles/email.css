@@ -3,6 +3,7 @@
     color: white;
 }
 .email_inner img{ 
+    border-radius: 10px;
     padding: 10px;
     height: auto;
     width: 100%;
