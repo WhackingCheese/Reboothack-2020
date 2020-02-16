@@ -4,6 +4,7 @@
     border: solid;
 }
 .pack__header {
+    background:#2a2f30;
     border-bottom: solid;
 }
 .pack__content__item {
@@ -12,18 +13,64 @@
 .pack__content__item > h2 {
     background: silver;
     margin: 0;
+    padding: 1em;
 }
 .pack__content__item > div {
-    border: solid;
+    margin: 5px;
     display: flex;
+    width: 100%;
     height: 100%;
     justify-content: space-between;
+    border-bottom: solid 1px;
+    flex-wrap: wrap;
 }
 .pack__content__item > div > div {
-    width: 80%;
+    padding: 1em;
+    display: flex;
 }
-.pack__content__item > div > input {
+.pack__content__item > div > div > input {
     transform: scale(3);
     width: 20%;
     margin: auto;
+}
+.pack__content__item > div > input {
+    transform: scale(3);
+    margin: auto;
+}
+.pack__content__item__under {
+    width: 100%;
+}
+.pack__content__item__under > ul {
+    list-style: none;
+    display: flex;
+}
+.pack__content__item__under > ul > li {
+    margin: 0 2em;
+}
+.pack__content__item__under > ul > li > div {
+    display: flex;
+}
+.pack__content__item__under > ul > li > div > input {
+    align-self: center;
+}
+.pack__content__item__lower {
+    border-bottom:solid 1px gray;
+    width: 100%;
+}
+.pack__content__item__lower > div {
+    width: 80%;
+}
+.test {
+    flex-direction: column;
+    width: 80%;
+}
+.contact {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 10em;
+    width: 10em;
+}
+.contact > img {
+    width: 100%;
 }

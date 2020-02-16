@@ -12,7 +12,7 @@
         include "inc/header.php";
         $totalsum = array();
     ?>
-    <div>
+    <!--<div>
         <h1>Hugmynd eitt:</h1>
     </div>
     <div class="pack">
@@ -56,9 +56,9 @@
                 </p>
             </div>
         </div>
-    </div>
+    </div> -->
     <div>
-        <h1>Hugmynd Tvö:</h1>
+        <h1>Hugmynd</h1>
     </div>
     <div class="pack">
         <div class="pack__header">
@@ -67,23 +67,41 @@
         <div class="pack__content__item">
             <h2>Hústrygging</h2>
             <div>
-                <div>
-                    <h3>Gleraugu</h3>
-                    <p>Uplýsingar um tryggingu</p>
-                    <p>Verð:<?php?></p>
+                <div class="pack__content__item__lower">
+                    <div>
+                        <h3>Gleraugu</h3>
+                        <p>Uplýsingar um tryggingu</p>
+                        <p>Verð:<?php?></p>
+                    </div>
+                    <input type="checkbox" name="" id="info">
                 </div>
-                <input type="checkbox" name="" id="info">
+                <div class="pack__content__item__under">
+                    <ul>
+                        <li>
+                            <div>
+                                <p>Gler</p>
+                                <input type="checkbox" name="" id="info">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <p>Umgjörð</p>
+                                <input type="checkbox" name="" id="info">
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
             <div>
-                <div>
+                <div class="test">
                     <h3>Tölvutrygging</h3>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
                 </div>
                 <input type="checkbox" name="" id="info">
             </div>
-            <div>
-                <div>
+            <div class="pack__content__item__lower">
+                <div class="test">
                     <h3>Legotrygging</h3>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -94,15 +112,15 @@
         <div class="pack__content__item">
             <h2>Bíltrygging</h2>
             <div>
-                <div>
-                    <h3>Bílúðutrygging</h3>
+                <div class="test">
+                    <h3>Bílrúðutrygging</h3>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
                 </div>
                 <input type="checkbox" name="" id="info">
             </div>
             <div>
-                <div>
+                <div class="test">
                     <h3>risputrygging</h3>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -110,7 +128,7 @@
                 <input type="checkbox" name="" id="info">
             </div>
             <div>
-                <div>
+                <div class="test">
                     <h3>Kaskó</h3>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -119,9 +137,9 @@
             </div>
         </div>
         <div class="pack__content__item">
-            <h2>Dýrtrygging</h2>
+            <h2>Dýratrygging</h2>
             <div>
-                <div>
+                <div class="test">
                     <h3>hundur 1</h3>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -129,7 +147,7 @@
                 <input type="checkbox" name="" id="info">
             </div>
             <div>
-                <div>
+                <div class="test">
                     <h3>hundur 2</h3>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -137,7 +155,7 @@
                 <input type="checkbox" name="" id="info">
             </div>
             <div>
-                <div>
+                <div class="test">
                     <h3>köttur 1</h3>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -148,7 +166,7 @@
         <div class="pack__content__item">
             <h2>O.fl.</h2>
             <div>
-                <div>
+                <div class="test">
                     <h2>hvað</h2>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -156,7 +174,7 @@
                 <input type="checkbox" name="" id="info">
             </div>
             <div>
-                <div>
+                <div class="test">
                     <h2>sem</h2>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -164,7 +182,7 @@
                 <input type="checkbox" name="" id="info">
             </div>
             <div>
-                <div>
+                <div class="test">
                     <h2>er</h2>
                     <p>Uplýsingar um tryggingu</p>
                     <p>Verð:<?php?></p>
@@ -179,6 +197,9 @@
                 ?>
             </p>
         </div>
+    </div>
+    <div class="contact">
+        <img src="img/contact.png" alt="">
     </div>
     <script>
         var checks = document.querySelectorAll("#info");
