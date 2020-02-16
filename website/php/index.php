@@ -18,7 +18,7 @@
         </div>
             <div class="bodymain">
             <?php 
-                echo "<div>";
+                echo "<div class='departments'>";
                 $string = file_get_contents("database.json");
                 if ($string === false) {
                     echo "DataBase not connected";
@@ -36,7 +36,7 @@
                                 echo $phishedMan['time']."</p>";
                             }
                             echo "</div>";
-                            echo "<div class='department__anal'>";
+                            echo "<div class='department__anal' style='display: none'>";
                             echo "<h2>Mails Sent: ".$department['sent']."</h2>";
                             echo "<h2>Mails Clicked: ".$department['clicks']."</h2>";
                             echo "<h2>Phished Employees: ".$department['number_phished']."</h2><br>";
@@ -58,10 +58,16 @@
                 "click",
                 function(e) {
                     var x = e.target.parentNode.nextSibling;
+                    var y = e.target.parentNode.nextSibling.nextSibling;
                     if(x.style.display == "" || x.style.display == "none") {
                         x.style.display = "flex";
                     } else {
                         x.style.display = "none";
+                    }
+                    if(y.style.display == "" || y.style.display == "none") {
+                        y.style.display = "block";
+                    } else {
+                        y.style.display = "none";
                     }
                 }
             );

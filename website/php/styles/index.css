@@ -34,7 +34,6 @@ h1{
 }
 
 .department {
-    display: flex;
     flex-wrap: wrap;
     border: solid black 2px;
     margin-bottom: 1em;
