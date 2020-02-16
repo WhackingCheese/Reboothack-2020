@@ -12,6 +12,9 @@
     ?>
     <img src="img/values.png" alt="" class="presentation">
     <div class="bodymain">
+        <div class="data_info">
+            <h3>Tölfræði úr stýrði phishing árásum</h3>
+        </div>
         <?php
             echo "<div>";
             $string = file_get_contents("database.json");
@@ -41,5 +44,8 @@
             echo "</div>";
         ?>
     </div>
+    <?php
+        include "inc/email.php"
+    ?>
 </body>
 </html>
