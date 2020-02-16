@@ -29,13 +29,12 @@ h1{
     font-size: 2em;
 }
 .bodymain {
-    width: 25%;
+    width: 100%;
     margin: 0em auto;
 }
 
 .department {
     flex-wrap: wrap;
-    border: solid black 2px;
     margin-bottom: 1em;
 }
 .department > h1 {
@@ -43,7 +42,6 @@ h1{
     margin: 0 auto;
     background: white;
     padding: 1em;
-    border-bottom: solid black 2px; 
 }
 
 .department__anal > h2 {
@@ -83,14 +81,12 @@ h1{
     width: 100%;
     margin: 0 auto;
     background: #AD2931;
-    border-bottom: solid black 2px;
 }
 .department__header > button {
     width: 100%;
     margin: 0 auto;
     padding: 0em;
     height: 4em;
-    border: none;
     background: #AD2931;
     font-size: 1.3em;
 }
@@ -103,5 +99,11 @@ h1{
     height: 4em;
 }
 .data_info > img {
-    width: 100%;
+    width: 80%;
+    margin: 16px auto;
+}
+
+.movie {
+    width: 80%;
+    margin: 16px auto;
 }

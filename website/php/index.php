@@ -84,6 +84,9 @@
         <div class="section">
             <div class="data_info">
                 <h1>Vinnustofa   í   sýndar   veruleiki</h1>
+                <video class="movie" controls>
+                    <source src="img/reboot.mp4" type="video/mp4">
+                </video>
                 <img src="img/Skyrim_2.gif" alt="">
             </div>
         </div>
