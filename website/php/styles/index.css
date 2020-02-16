@@ -1,0 +1,54 @@
+.presentation {
+    width: 100%;
+}
+
+
+element {
+    --awarego-red: #AD2931;
+    --awarego-white: #FDFDFC;
+    --awarego-logo: url(awarego_logo.png);
+    --awarego-font: 'Nunito Sans' sans-serif;
+}
+
+* {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+p::first-line {
+    font-weight: bold;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.bodymain {
+    width: 80%;
+    margin: 0em auto;
+
+}
+.company {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid black 2px;
+    margin-bottom: 1em;
+}
+.company > h1 {
+    width: 100%;
+    margin: 0 auto;
+    background: #AD2931;
+    padding: 1em;
+    border-bottom: solid black 2px; 
+}
+.company > p {
+    background-color: #CB4950;
+    color: white;
+    margin: 1.2em;
+    padding: 1em;
+}
+.company__anal {
+    width: 100%;
+    padding: 2em;
+}
