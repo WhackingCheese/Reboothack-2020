@@ -12,7 +12,7 @@
     </div>
     <div class="header__third">
         <h1 class="header__third__temp">
-            PenTest Results (demo)
+            PenTest Results
         </h1>
     </div>
 </div>

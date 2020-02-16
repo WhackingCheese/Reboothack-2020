@@ -1,3 +1,28 @@
+.header {
+    width: auto;
+    display: flex;
+    height: auto;
+    padding: 8px 16px;
+}
+
+h1.header__third__temp {
+    margin: 0em 0em;
+    font-size: 24px;
+    text-align: right;
+}
+
+.header__first__image {
+    height: 30px;
+}
+
+.header__second_ul {
+    margin: 0px 0px;
+}
+
+
+
+
+
 element {
     --awarego-red: #AD2931;
     --awarego-white: #FDFDFC;
@@ -5,8 +30,8 @@ element {
     --awarego-font: 'Nunito Sans' sans-serif;
 }
 
-:root {
-    font-family: 'Nunito Sans' sans-serif;
+* {
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 p::first-line {
@@ -18,19 +43,13 @@ html, body {
     height: 100%;
     width: 100%;
 }
-.header {
-    width: 100%;
-    display: flex;
-    height: 10em;
-    background: #FDFDFC;
-    border-bottom: solid;
-}
+
 .header > div {
     width: 33.3%;
     align-self: center;
 }
 .header__first__img {
-    width: 100%;
+    height: 30px;
 }
 .header__second_ul {
     display: flex;
@@ -39,7 +58,7 @@ html, body {
 
 .bodymain {
     width: 80%;
-    margin: 1em auto;
+    margin: 0em auto;
 
 }
 .company {
@@ -65,3 +84,4 @@ html, body {
     width: 100%;
     padding: 2em;
 }
+*/
