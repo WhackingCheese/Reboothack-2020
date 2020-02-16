@@ -4,6 +4,7 @@
         "sent": 77,
         "clicks": 35,
         "number_phished": 19,
+        "pie_chart": "img/it.png",
         "phished": [
             {
                 "username": "employee_1",
@@ -145,6 +146,7 @@
         "sent": 36,
         "clicks": 13,
         "number_phished": 6,
+        "pie_chart": "it.png",
         "phished": [
             {
                 "username": "employee_2",
@@ -499,6 +501,7 @@
         "sent": 43,
         "clicks": 17,
         "number_phished": 4,
+        "pie_chart": "it.png",
         "phished": [
             {
                 "username": "employee_7",
@@ -535,6 +538,7 @@
         "sent": 68,
         "clicks": 32,
         "number_phished": 15,
+        "pie_chart": "marketing.png",
         "phished": [
             {
                 "username": "employee_7",
@@ -909,6 +913,7 @@
         "sent": 47,
         "clicks": 24,
         "number_phished": 16,
+        "pie_chart": "marketing.png",
         "phished": [
             {
                 "username": "employee_1",

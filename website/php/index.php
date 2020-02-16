@@ -37,9 +37,10 @@
                             }
                             echo "</div>";
                             echo "<div class='department__anal' style='display: none'>";
-                            echo "<p>Mails Sent: ".$department['sent']."</p>";
-                            echo "<p>Mails Clicked: ".$department['clicks']."</p>";
-                            echo "<p>Phished Employees: ".$department['number_phished']."</p><br>";
+                         //   echo "<p>Mails Sent: ".$department['sent']."</p>";
+                         //   echo "<p>Mails Clicked: ".$department['clicks']."</p>";
+                            echo "<img class=\"pie\" src=\"img/".$department['pie_chart']."\">";
+                         //   echo "<p>Phished Employees: ".$department['number_phished']."</p><br>";
                             echo "<p>Click Rate: ".number_format(($department['clicks']/$department['sent'])*100, 2, '.', '')."%</p>";
                             echo "<p>Phish Rate: ".number_format(($department['number_phished']/$department['sent'])*100, 2, '.', '')."%</p>";
                             echo "</div>";
