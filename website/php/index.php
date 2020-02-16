@@ -66,7 +66,7 @@
                         x.style.display = "none";
                     }
                     if(y.style.display == "" || y.style.display == "none") {
-                        y.style.display = "block";
+                        y.style.display = "flex";
                     } else {
                         y.style.display = "none";
                     }

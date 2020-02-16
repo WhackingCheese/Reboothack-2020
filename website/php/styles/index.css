@@ -10,6 +10,11 @@
     width: 60%; 
     margin: 0 auto; 
 }
+
+.department__anal > p {
+    margin: 5px auto;
+    font-weight: 10;
+}
 element {
     --awarego-red: #AD2931;
     --awarego-white: #FDFDFC;
@@ -85,9 +90,11 @@ h1{
     padding: 1em;
 }
 .department__anal {
+    display: flex; 
+    flex-direction: column;
     width: 100%;
     margin: 0 auto;
-    padding: 2em;
+
     align-content: center;
 }
 .department__header {
@@ -119,7 +126,7 @@ h1{
     background-color: white;
 }
 .data_info > img {
-    width: 60%;
+    width: 80%;
     margin: 16px auto;
 }
 
