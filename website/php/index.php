@@ -7,14 +7,16 @@
     <title>Reboot</title>
 </head>
 <body>
+    
     <?php
         include "inc/header.php";
     ?>
     <img src="img/values.png" alt="" class="presentation">
-    <div class="bodymain">
+    <div class="section">
         <div class="data_info">
-            <h3>Tölfræði úr stýrði phishing árásum</h3>
+            <h1>Tölfræði úr stýrði phishing árásum</h1>
         </div>
+        <div class="bodymain">
         <?php
             echo "<div>";
             $string = file_get_contents("database.json");
@@ -44,6 +46,7 @@
             echo "</div>";
         ?>
     </div>
+        </div>
     <?php
         include "inc/email.php"
     ?>
