@@ -1,0 +1,15 @@
+.email {
+    background-color: #AD2931;
+    color: white;
+}
+
+.email__inner {
+    width: 80%;
+    margin: 0em auto;
+    padding: 1em 0em;
+}
+
+.email__inner > h2 {
+    font-weight: normal;
+    margin: 0em 0em;
+}
