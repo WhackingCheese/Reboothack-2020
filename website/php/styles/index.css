@@ -47,6 +47,9 @@ h1{
     border-bottom: solid black 2px; 
 }
 
+.department__anal > h2 {
+    margin: 8px 0px;
+}
 
 .data_info{
     margin: 4em 0 1em 0;
@@ -78,7 +81,6 @@ h1{
 .department__header {
     display: flex;
     justify-content: space-between;
-    width: 100%;
     width: 100%;
     margin: 0 auto;
     background: #AD2931;
