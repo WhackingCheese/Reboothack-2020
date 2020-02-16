@@ -29,13 +29,13 @@ html, body {
     margin: 0em auto;
 }
 
-.company {
+.department {
     display: flex;
     flex-wrap: wrap;
     border: solid black 2px;
     margin-bottom: 1em;
 }
-.company > h1 {
+.department > h1 {
     width: 100%;
     margin: 0 auto;
     background: white;
@@ -63,17 +63,17 @@ html, body {
     width: 100%;
     flex-wrap: wrap;
 }
-.company__player > p {
+.department__player > p {
     background-color: #CB4950;
     color: white;
     margin: 1.2em;
     padding: 1em;
 }
-.company__anal {
+.department__anal {
     width: 100%;
     padding: 2em;
 }
-.company__header {
+.department__header {
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -82,7 +82,7 @@ html, body {
     background: #AD2931;
     border-bottom: solid black 2px;
 }
-.company__header > button {
+.department__header > button {
     width: 100%;
     margin: 0 auto;
     padding: 0em;

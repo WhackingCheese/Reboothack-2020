@@ -1,138 +1,138 @@
 [
     {
-        "company_id": "company_0",
+        "department_id": "HR",
         "sent": 77,
         "clicks": 35,
         "number_phished": 19,
         "phished": [
             {
-                "username": "user_1",
+                "username": "employee_1",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 287883389,
                 "session_id": 760835334
             },
             {
-                "username": "user_2",
+                "username": "employee_2",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 650141955,
                 "session_id": 15828107
             },
             {
-                "username": "user_10",
+                "username": "employee_10",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 400240688,
                 "session_id": 194184348
             },
             {
-                "username": "user_12",
+                "username": "employee_12",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 211967934,
                 "session_id": 690986283
             },
             {
-                "username": "user_22",
+                "username": "employee_22",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 319942523,
                 "session_id": 52809426
             },
             {
-                "username": "user_24",
+                "username": "employee_24",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 951629810,
                 "session_id": 856819296
             },
             {
-                "username": "user_25",
+                "username": "employee_25",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 676378333,
                 "session_id": 594864293
             },
             {
-                "username": "user_29",
+                "username": "employee_29",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 310516443,
                 "session_id": 305854106
             },
             {
-                "username": "user_31",
+                "username": "employee_31",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 370230768,
                 "session_id": 793038735
             },
             {
-                "username": "user_35",
+                "username": "employee_35",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 166928780,
                 "session_id": 328109327
             },
             {
-                "username": "user_38",
+                "username": "employee_38",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 731190969,
                 "session_id": 938167241
             },
             {
-                "username": "user_42",
+                "username": "employee_42",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 111957553,
                 "session_id": 465899593
             },
             {
-                "username": "user_45",
+                "username": "employee_45",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 497090,
                 "session_id": 339469433
             },
             {
-                "username": "user_57",
+                "username": "employee_57",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 643306598,
                 "session_id": 866744839
             },
             {
-                "username": "user_60",
+                "username": "employee_60",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 824049885,
                 "session_id": 341374211
             },
             {
-                "username": "user_63",
+                "username": "employee_63",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 579916548,
                 "session_id": 514625344
             },
             {
-                "username": "user_70",
+                "username": "employee_70",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 775365824,
                 "session_id": 423797694
             },
             {
-                "username": "user_74",
+                "username": "employee_74",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 491929407,
                 "session_id": 358440301
             },
             {
-                "username": "user_75",
+                "username": "employee_75",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 454161983,
@@ -141,48 +141,48 @@
         ]
     },
     {
-        "company_id": "company_1",
+        "department_id": "PR",
         "sent": 36,
         "clicks": 13,
         "number_phished": 6,
         "phished": [
             {
-                "username": "user_2",
+                "username": "employee_2",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 901152997,
                 "session_id": 192979183
             },
             {
-                "username": "user_6",
+                "username": "employee_6",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 643396478,
                 "session_id": 363207699
             },
             {
-                "username": "user_13",
+                "username": "employee_13",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 203405363,
                 "session_id": 599965078
             },
             {
-                "username": "user_15",
+                "username": "employee_15",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 447685215,
                 "session_id": 666513588
             },
             {
-                "username": "user_19",
+                "username": "employee_19",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 152381802,
                 "session_id": 473353556
             },
             {
-                "username": "user_34",
+                "username": "employee_34",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 768329367,
@@ -191,41 +191,41 @@
         ]
     },
     {
-        "company_id": "company_2",
+        "department_id": "R&D",
         "sent": 33,
         "clicks": 14,
         "number_phished": 5,
         "phished": [
             {
-                "username": "user_11",
+                "username": "employee_11",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 604713460,
                 "session_id": 650451700
             },
             {
-                "username": "user_19",
+                "username": "employee_19",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 960995807,
                 "session_id": 562037325
             },
             {
-                "username": "user_22",
+                "username": "employee_22",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 552764332,
                 "session_id": 583319875
             },
             {
-                "username": "user_25",
+                "username": "employee_25",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 525762363,
                 "session_id": 347091934
             },
             {
-                "username": "user_28",
+                "username": "employee_28",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 539478727,
@@ -234,146 +234,146 @@
         ]
     },
     {
-        "company_id": "company_3",
+        "department_id": "Production",
         "sent": 87,
         "clicks": 33,
         "number_phished": 20,
         "phished": [
             {
-                "username": "user_1",
+                "username": "employee_1",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 943946335,
                 "session_id": 341644802
             },
             {
-                "username": "user_6",
+                "username": "employee_6",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 139729472,
                 "session_id": 457558563
             },
             {
-                "username": "user_7",
+                "username": "employee_7",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 407091730,
                 "session_id": 238036626
             },
             {
-                "username": "user_8",
+                "username": "employee_8",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 703258557,
                 "session_id": 659009343
             },
             {
-                "username": "user_24",
+                "username": "employee_24",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 789477595,
                 "session_id": 154259945
             },
             {
-                "username": "user_25",
+                "username": "employee_25",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 468349761,
                 "session_id": 747186382
             },
             {
-                "username": "user_26",
+                "username": "employee_26",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 386797461,
                 "session_id": 595490081
             },
             {
-                "username": "user_27",
+                "username": "employee_27",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 195601637,
                 "session_id": 354866061
             },
             {
-                "username": "user_28",
+                "username": "employee_28",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 654826876,
                 "session_id": 946118793
             },
             {
-                "username": "user_31",
+                "username": "employee_31",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 980522461,
                 "session_id": 495223639
             },
             {
-                "username": "user_39",
+                "username": "employee_39",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 751976961,
                 "session_id": 141527474
             },
             {
-                "username": "user_44",
+                "username": "employee_44",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 406425019,
                 "session_id": 428015477
             },
             {
-                "username": "user_45",
+                "username": "employee_45",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 854824029,
                 "session_id": 66126240
             },
             {
-                "username": "user_47",
+                "username": "employee_47",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 234266520,
                 "session_id": 916007404
             },
             {
-                "username": "user_50",
+                "username": "employee_50",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 968871322,
                 "session_id": 566519516
             },
             {
-                "username": "user_56",
+                "username": "employee_56",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 866377246,
                 "session_id": 164129820
             },
             {
-                "username": "user_72",
+                "username": "employee_72",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 171746119,
                 "session_id": 229168914
             },
             {
-                "username": "user_80",
+                "username": "employee_80",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 258076007,
                 "session_id": 807029492
             },
             {
-                "username": "user_82",
+                "username": "employee_82",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 986454158,
                 "session_id": 802212643
             },
             {
-                "username": "user_86",
+                "username": "employee_86",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 249673499,
@@ -382,111 +382,111 @@
         ]
     },
     {
-        "company_id": "company_4",
+        "department_id": "Engineering",
         "sent": 75,
         "clicks": 32,
         "number_phished": 15,
         "phished": [
             {
-                "username": "user_8",
+                "username": "employee_8",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 335793086,
                 "session_id": 801502195
             },
             {
-                "username": "user_13",
+                "username": "employee_13",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 180824758,
                 "session_id": 608597796
             },
             {
-                "username": "user_16",
+                "username": "employee_16",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 185569484,
                 "session_id": 282953852
             },
             {
-                "username": "user_20",
+                "username": "employee_20",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 420411837,
                 "session_id": 226436655
             },
             {
-                "username": "user_23",
+                "username": "employee_23",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 929648341,
                 "session_id": 676709669
             },
             {
-                "username": "user_27",
+                "username": "employee_27",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 990391250,
                 "session_id": 843388315
             },
             {
-                "username": "user_28",
+                "username": "employee_28",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 822910755,
                 "session_id": 955146348
             },
             {
-                "username": "user_33",
+                "username": "employee_33",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 548414754,
                 "session_id": 118404599
             },
             {
-                "username": "user_44",
+                "username": "employee_44",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 160141007,
                 "session_id": 957201049
             },
             {
-                "username": "user_49",
+                "username": "employee_49",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 519202020,
                 "session_id": 858136679
             },
             {
-                "username": "user_53",
+                "username": "employee_53",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 172656859,
                 "session_id": 261824785
             },
             {
-                "username": "user_54",
+                "username": "employee_54",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 592529288,
                 "session_id": 384475364
             },
             {
-                "username": "user_60",
+                "username": "employee_60",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 954558238,
                 "session_id": 807619246
             },
             {
-                "username": "user_68",
+                "username": "employee_68",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 42216629,
                 "session_id": 454014884
             },
             {
-                "username": "user_72",
+                "username": "employee_72",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 481755646,
@@ -495,34 +495,34 @@
         ]
     },
     {
-        "company_id": "company_5",
+        "department_id": "IT",
         "sent": 43,
         "clicks": 17,
         "number_phished": 4,
         "phished": [
             {
-                "username": "user_7",
+                "username": "employee_7",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 206961209,
                 "session_id": 668837240
             },
             {
-                "username": "user_12",
+                "username": "employee_12",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 752223543,
                 "session_id": 491329864
             },
             {
-                "username": "user_33",
+                "username": "employee_33",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 974009699,
                 "session_id": 939498899
             },
             {
-                "username": "user_41",
+                "username": "employee_41",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 834055624,
@@ -531,111 +531,111 @@
         ]
     },
     {
-        "company_id": "company_6",
+        "department_id": "Systems Management",
         "sent": 68,
         "clicks": 32,
         "number_phished": 15,
         "phished": [
             {
-                "username": "user_7",
+                "username": "employee_7",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 898099470,
                 "session_id": 587623911
             },
             {
-                "username": "user_11",
+                "username": "employee_11",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 653900987,
                 "session_id": 92975606
             },
             {
-                "username": "user_20",
+                "username": "employee_20",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 625273667,
                 "session_id": 888014206
             },
             {
-                "username": "user_22",
+                "username": "employee_22",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 13632395,
                 "session_id": 496852085
             },
             {
-                "username": "user_24",
+                "username": "employee_24",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 589681429,
                 "session_id": 703388166
             },
             {
-                "username": "user_27",
+                "username": "employee_27",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 19295790,
                 "session_id": 698693274
             },
             {
-                "username": "user_32",
+                "username": "employee_32",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 689212209,
                 "session_id": 492528819
             },
             {
-                "username": "user_35",
+                "username": "employee_35",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 680525878,
                 "session_id": 841724112
             },
             {
-                "username": "user_44",
+                "username": "employee_44",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 618612084,
                 "session_id": 788744856
             },
             {
-                "username": "user_52",
+                "username": "employee_52",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 260598069,
                 "session_id": 88005820
             },
             {
-                "username": "user_54",
+                "username": "employee_54",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 562634540,
                 "session_id": 627061910
             },
             {
-                "username": "user_57",
+                "username": "employee_57",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 597665694,
                 "session_id": 141804970
             },
             {
-                "username": "user_59",
+                "username": "employee_59",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 698062975,
                 "session_id": 780439351
             },
             {
-                "username": "user_63",
+                "username": "employee_63",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 963677922,
                 "session_id": 105947124
             },
             {
-                "username": "user_64",
+                "username": "employee_64",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 471529223,
@@ -644,104 +644,104 @@
         ]
     },
     {
-        "company_id": "company_7",
+        "department_id": "Design",
         "sent": 61,
         "clicks": 24,
         "number_phished": 14,
         "phished": [
             {
-                "username": "user_7",
+                "username": "employee_7",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 382277242,
                 "session_id": 658617903
             },
             {
-                "username": "user_12",
+                "username": "employee_12",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 199369646,
                 "session_id": 775823967
             },
             {
-                "username": "user_16",
+                "username": "employee_16",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 98907420,
                 "session_id": 945841734
             },
             {
-                "username": "user_18",
+                "username": "employee_18",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 966255394,
                 "session_id": 931546047
             },
             {
-                "username": "user_20",
+                "username": "employee_20",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 628421276,
                 "session_id": 719438131
             },
             {
-                "username": "user_21",
+                "username": "employee_21",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 455722146,
                 "session_id": 433962898
             },
             {
-                "username": "user_28",
+                "username": "employee_28",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 268541919,
                 "session_id": 296797294
             },
             {
-                "username": "user_33",
+                "username": "employee_33",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 999145753,
                 "session_id": 178956809
             },
             {
-                "username": "user_35",
+                "username": "employee_35",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 493447861,
                 "session_id": 721073161
             },
             {
-                "username": "user_37",
+                "username": "employee_37",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 674489894,
                 "session_id": 106301165
             },
             {
-                "username": "user_41",
+                "username": "employee_41",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 607699510,
                 "session_id": 870675326
             },
             {
-                "username": "user_46",
+                "username": "employee_46",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 360574283,
                 "session_id": 973219770
             },
             {
-                "username": "user_49",
+                "username": "employee_49",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 63529015,
                 "session_id": 688850930
             },
             {
-                "username": "user_53",
+                "username": "employee_53",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 695637475,
@@ -750,153 +750,153 @@
         ]
     },
     {
-        "company_id": "company_8",
+        "department_id": "Finance",
         "sent": 100,
         "clicks": 46,
         "number_phished": 21,
         "phished": [
             {
-                "username": "user_4",
+                "username": "employee_4",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 44770781,
                 "session_id": 233679640
             },
             {
-                "username": "user_8",
+                "username": "employee_8",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 72585809,
                 "session_id": 833837764
             },
             {
-                "username": "user_13",
+                "username": "employee_13",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 549731417,
                 "session_id": 310121135
             },
             {
-                "username": "user_23",
+                "username": "employee_23",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 189629222,
                 "session_id": 759276847
             },
             {
-                "username": "user_27",
+                "username": "employee_27",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 38666281,
                 "session_id": 686961153
             },
             {
-                "username": "user_28",
+                "username": "employee_28",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 916352505,
                 "session_id": 37855812
             },
             {
-                "username": "user_42",
+                "username": "employee_42",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 927123911,
                 "session_id": 719391739
             },
             {
-                "username": "user_44",
+                "username": "employee_44",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 323349973,
                 "session_id": 309172948
             },
             {
-                "username": "user_46",
+                "username": "employee_46",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 896061305,
                 "session_id": 538339962
             },
             {
-                "username": "user_53",
+                "username": "employee_53",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 909150337,
                 "session_id": 157163190
             },
             {
-                "username": "user_55",
+                "username": "employee_55",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 539604294,
                 "session_id": 898386164
             },
             {
-                "username": "user_59",
+                "username": "employee_59",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 343795523,
                 "session_id": 573334832
             },
             {
-                "username": "user_60",
+                "username": "employee_60",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 458752778,
                 "session_id": 286403654
             },
             {
-                "username": "user_65",
+                "username": "employee_65",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 752691389,
                 "session_id": 799285075
             },
             {
-                "username": "user_66",
+                "username": "employee_66",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 391720886,
                 "session_id": 738759625
             },
             {
-                "username": "user_68",
+                "username": "employee_68",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 670592304,
                 "session_id": 608037068
             },
             {
-                "username": "user_76",
+                "username": "employee_76",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 257673824,
                 "session_id": 367992889
             },
             {
-                "username": "user_78",
+                "username": "employee_78",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 202857750,
                 "session_id": 827864158
             },
             {
-                "username": "user_82",
+                "username": "employee_82",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 690929984,
                 "session_id": 329739483
             },
             {
-                "username": "user_84",
+                "username": "employee_84",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 180055532,
                 "session_id": 636307791
             },
             {
-                "username": "user_85",
+                "username": "employee_85",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 81631608,
@@ -905,118 +905,118 @@
         ]
     },
     {
-        "company_id": "company_9",
+        "department_id": "Marketing",
         "sent": 47,
         "clicks": 24,
         "number_phished": 16,
         "phished": [
             {
-                "username": "user_1",
+                "username": "employee_1",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 743058863,
                 "session_id": 51609640
             },
             {
-                "username": "user_3",
+                "username": "employee_3",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 919816016,
                 "session_id": 852314248
             },
             {
-                "username": "user_9",
+                "username": "employee_9",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 344230986,
                 "session_id": 507613944
             },
             {
-                "username": "user_11",
+                "username": "employee_11",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 201035210,
                 "session_id": 756402346
             },
             {
-                "username": "user_13",
+                "username": "employee_13",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 266173345,
                 "session_id": 720682013
             },
             {
-                "username": "user_15",
+                "username": "employee_15",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 396192129,
                 "session_id": 94616040
             },
             {
-                "username": "user_20",
+                "username": "employee_20",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 819844744,
                 "session_id": 534241638
             },
             {
-                "username": "user_22",
+                "username": "employee_22",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 411317774,
                 "session_id": 484319652
             },
             {
-                "username": "user_24",
+                "username": "employee_24",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 879490514,
                 "session_id": 439145498
             },
             {
-                "username": "user_26",
+                "username": "employee_26",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 16099239,
                 "session_id": 772884074
             },
             {
-                "username": "user_30",
+                "username": "employee_30",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 641915673,
                 "session_id": 378246577
             },
             {
-                "username": "user_31",
+                "username": "employee_31",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 219522743,
                 "session_id": 414414850
             },
             {
-                "username": "user_34",
+                "username": "employee_34",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 436364663,
                 "session_id": 503644372
             },
             {
-                "username": "user_37",
+                "username": "employee_37",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 10967174,
                 "session_id": 170673626
             },
             {
-                "username": "user_41",
+                "username": "employee_41",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 166019350,
                 "session_id": 979528798
             },
             {
-                "username": "user_43",
+                "username": "employee_43",
                 "password": "secret",
                 "time": "15/02/2020 18:39:18",
                 "cookie_id": 373589716,
