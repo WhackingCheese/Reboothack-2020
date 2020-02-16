@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/index.css">
+    <link href="https://fonts.googleapis.com/css?family=Michroma&display=swap" rel="stylesheet">
     <title>Reboot</title>
 </head>
 <body>
@@ -14,7 +15,7 @@
     <img src="img/values.png" alt="" class="presentation">
     <div class="section">
         <div class="data_info">
-            <h1>Tölfræði úr stýrði phishing árásum</h1>
+            <h1>Tölfræði   úr   stýrðum   phishing   árásum</h1>
         </div>
         <div class="bodymain">
         <?php
@@ -67,9 +68,18 @@
         }
     }
     </script>
-
+<div class="section">
+        <div class="data_info">
+            <h1>Phishing   Vinnustofa</h1>
+        </div>
     <?php
         include "inc/email.php"
     ?>
+</div>
+div class="section">
+        <div class="data_info">
+            <h1>Vinnustofa   í   sýndar   veruleiki</h1>
+        </div>
+</div>
 </body>
 </html>
