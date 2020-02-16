@@ -27,8 +27,8 @@ html, body {
 .bodymain {
     width: 80%;
     margin: 0em auto;
-
 }
+
 .company {
     display: flex;
     flex-wrap: wrap;
@@ -38,11 +38,32 @@ html, body {
 .company > h1 {
     width: 100%;
     margin: 0 auto;
-    background: #AD2931;
+    background: white;
     padding: 1em;
     border-bottom: solid black 2px; 
 }
-.company > p {
+
+
+.data_info{
+    width: 100%;
+    margin: 4em 0 1em 0;
+    padding: 3em;
+    text-align: center;
+    background-color: #CB4950;
+}
+
+.data_info > h1 {
+    font-size: 4em;
+    color: white;
+    margin: 0 20px;
+}
+
+#cpInfo {
+    display: none;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.company__player > p {
     background-color: #CB4950;
     color: white;
     margin: 1.2em;
@@ -51,4 +72,30 @@ html, body {
 .company__anal {
     width: 100%;
     padding: 2em;
+}
+.company__header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    background: #AD2931;
+    border-bottom: solid black 2px;
+}
+.company__header > button {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0em;
+    height: 4em;
+    border: none;
+    background: #AD2931;
+    font-size: 1.3em;
+}
+}
+.cpInfoDisplay {
+    display: flex;
+    flex-wrap: wrap;
+}
+#info {
+    height: 4em;
 }
