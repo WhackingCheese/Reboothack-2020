@@ -1,6 +1,7 @@
 .presentation {
     width: 100%;
     margin-top: 50px;
+    margin-bottom: 6em;
 }
 
 element {
@@ -50,7 +51,7 @@ h1{
 }
 
 .data_info{
-    margin: 4em 0 1em 0;
+    margin: 1em 0 1em 0;
     padding: 3em;
     text-align: center;
     background-color: grey;
@@ -69,8 +70,8 @@ h1{
 }
 .department__player > p {
     border-radius: 10px;
-    background-color: #CB4950;
-    color: white;
+    border: 2px solid rgb(0, 0, 0, 0.4);
+    background-color: white;
     margin: 1.2em;
     padding: 1em;
 }
@@ -84,7 +85,7 @@ h1{
     justify-content: space-between;
     width: 100%;
     margin: 0 auto;
-    background: #AD2931;
+    background-color: white;
 }
 .department__header > button {
     border-color: transparent;
@@ -103,17 +104,31 @@ h1{
 #info {
     border-radius: 10px;
     height: 4em;
+    border: 2px solid #CB4950;
+    background-color: white;
 }
 .data_info > img {
-    width: 80%;
+    width: 60%;
     margin: 16px auto;
 }
 
 .movie {
-    width: 80%;
+    width: 60%;
     margin: 16px auto;
 }
 
 #video {
+    padding: 3em 0;
     background-color: white;
+    margin-top: 0;
+}
+
+#video > h2{ 
+    
+    font-size: 2em;
+}
+
+.section {
+        background-color: #F2F2F2;
+        padding-bottom: 2em;
 }
