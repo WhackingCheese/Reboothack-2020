@@ -10,6 +10,10 @@
     <?php
         include "inc/header.php";
     ?>
+    <?php
+        include "inc/presentation.php";
+    ?>
+    
     <div class="bodymain">
         <?php
             echo "<div>";

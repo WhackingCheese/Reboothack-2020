@@ -38,7 +38,9 @@ html, body {
 }
 
 .bodymain {
-    margin: 1em;
+    width: 80%;
+    margin: 1em auto;
+
 }
 .company {
     display: flex;
