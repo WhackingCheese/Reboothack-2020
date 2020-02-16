@@ -13,3 +13,6 @@
     font-weight: normal;
     margin: 0em 0em;
 }
+.email__inner > form > input {
+    width: 100%;
+}
