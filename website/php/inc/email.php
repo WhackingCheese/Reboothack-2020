@@ -1,20 +1,13 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1> Phishing Vinnustofa</div>
+<link rel="stylesheet" href="./styles/email.css">
 <div class="email">
-    <h2>Send e-mail to someone@example.com:</h2>
-
-    <form action="mailto:someone@example.com" method="post" enctype="text/plain">
-    Name:<br>
-    <input type="text" name="name"><br>
-    E-mail:<br>
-    <input type="text" name="mail"><br>
-    Comment:<br>
-    <input type="text" name="comment" size="50"><br><br>
-    <input type="submit" value="Send">
-    <input type="reset" value="Reset">
-    </form>
+    <div class="email__inner">
+        <h2>Send e-mail to someone@example.com:</h2>
+        <form action="mailto:someone@example.com" method="post" enctype="text/plain">
+            Name: <input type="text" name="name"><br>
+            E-mail: <input type="text" name="mail"><br>
+            Comment: <input type="text" name="comment" size="50"><br><br>
+            <input type="submit" value="Send">
+            <input type="reset" value="Reset">
+        </form>
+    </div>
 </div>
-</body>
-</html>

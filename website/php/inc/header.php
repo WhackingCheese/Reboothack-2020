@@ -6,9 +6,6 @@
     <div class="header__second">
         <ul class="header__second_ul">
             <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
         </ul>
     </div>
     <div class="header__third">
