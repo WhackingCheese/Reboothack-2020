@@ -55,6 +55,7 @@ html, body {
 }
 .company > p {
     background-color: #CB4950;
+    color: white;
     margin: 1.2em;
     padding: 1em;
 }
