@@ -78,6 +78,7 @@
         <div class="section">
             <div class="data_info">
                 <h1>Vinnustofa   í   sýndar   veruleiki</h1>
+                <img src="img/Skyrim_2.gif" alt="">
             </div>
         </div>
     </div>
