@@ -37,11 +37,11 @@
                             }
                             echo "</div>";
                             echo "<div class='department__anal' style='display: none'>";
-                            echo "<h2>Mails Sent: ".$department['sent']."</h2>";
-                            echo "<h2>Mails Clicked: ".$department['clicks']."</h2>";
-                            echo "<h2>Phished Employees: ".$department['number_phished']."</h2><br>";
-                            echo "<h2>Click Rate: ".number_format(($department['clicks']/$department['sent'])*100, 2, '.', '')."%</h2>";
-                            echo "<h2>Phish Rate: ".number_format(($department['number_phished']/$department['sent'])*100, 2, '.', '')."%</h2>";
+                            echo "<p>Mails Sent: ".$department['sent']."</p>";
+                            echo "<p>Mails Clicked: ".$department['clicks']."</p>";
+                            echo "<p>Phished Employees: ".$department['number_phished']."</p><br>";
+                            echo "<p>Click Rate: ".number_format(($department['clicks']/$department['sent'])*100, 2, '.', '')."%</p>";
+                            echo "<p>Phish Rate: ".number_format(($department['number_phished']/$department['sent'])*100, 2, '.', '')."%</p>";
                             echo "</div>";
                             echo "</div>";
                         }
@@ -83,9 +83,10 @@
         </div>
         <div class="section">
             <div class="data_info">
-                <h1>Vinnustofa   í   sýndar   veruleiki</h1>
+                <h1>Vinnustofa   í   sýndarveruleiki</h1>
             </div>
             <div class="data_info" id="video">
+                <h2> Frá veruleika til sýndarveruleika</h2>
                 <video class="movie" controls>
                     <source src="img/reboot.mp4" type="video/mp4">
                 </video>

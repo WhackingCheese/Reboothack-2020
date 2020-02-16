@@ -1,6 +1,10 @@
 .email {
+    width: 70%;
+    margin: auto;
     background-color: #AD2931;
     color: white;
+    padding: 0 0 2em 0;
+    border-radius: 10px;
 }
 .email_inner img{ 
     border-radius: 10px;
@@ -9,7 +13,7 @@
     width: 100%;
 }
 .email__inner {
-    width: 50%;
+    width: 90%;
     margin: 0em auto;
     padding: 1em 0em;
 }
@@ -21,6 +25,7 @@
 
 .email__inner > h2 {
     font-weight: normal;
+    padding: 1em 0;
     margin: 0em 0em;
     
 }
